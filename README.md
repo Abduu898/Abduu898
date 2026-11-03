@@ -29,9 +29,9 @@ Currently exploring **software engineering, cybersecurity, and AI** — with a f
 
 ### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abduu898&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Abduu898&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abduu898&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abduu898&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
