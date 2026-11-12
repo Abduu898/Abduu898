@@ -30,10 +30,10 @@ Currently exploring **software engineering, cybersecurity, and AI** — with a f
 
 
 ### GitHub Stats
+![GitHub Stats](./profile/stats.svg)
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Abduu898&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+![Top Languages](./profile/top-langs.svg)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Abduu898&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
