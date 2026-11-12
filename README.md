@@ -1,4 +1,3 @@
-
 # Abderrahim Bahraoui
 
 ### Software Engineering Student · Builder · Technical Explorer
@@ -33,6 +32,11 @@ Currently exploring **software engineering, cybersecurity, and AI** — with a f
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Abduu898&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Abduu898&layout=compact&hide_border=true&theme=transparent)
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
