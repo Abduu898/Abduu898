@@ -39,6 +39,11 @@ Currently exploring **software engineering, cybersecurity, and AI** — with a f
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/Abduu898/PeelWork/pull/2) in [Abduu898/PeelWork](https://github.com/Abduu898/PeelWork)
+2. 💪 Opened PR [#2](https://github.com/Abduu898/PeelWork/pull/2) in [Abduu898/PeelWork](https://github.com/Abduu898/PeelWork)
+3. 💪 Opened PR [#1](https://github.com/Abduu898/Abduu898/pull/1) in [Abduu898/Abduu898](https://github.com/Abduu898/Abduu898)
+4. 🎉 Merged PR [#1](https://github.com/Abduu898/PeelWork/pull/1) in [Abduu898/PeelWork](https://github.com/Abduu898/PeelWork)
+5. 💪 Opened PR [#1](https://github.com/Abduu898/PeelWork/pull/1) in [Abduu898/PeelWork](https://github.com/Abduu898/PeelWork)
 <!--END_SECTION:activity-->
 
 ---
