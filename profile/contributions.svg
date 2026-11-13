@@ -1,0 +1,17 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="495" height="130" viewBox="0 0 495 130">
+  <rect width="494" height="129" x=".5" y=".5"
+        rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" fill="#8b949e"
+        font-family="Arial,sans-serif" font-size="14">
+    CONTRIBUTIONS IN THE LAST YEAR
+  </text>
+  <text x="25" y="88" fill="#3fb950"
+        font-family="Arial,sans-serif" font-size="42"
+        font-weight="700">451</text>
+  <text x="25" y="111" fill="#8b949e"
+        font-family="Arial,sans-serif" font-size="12">
+    Based on GitHub's contribution calendar
+  </text>
+</svg>
